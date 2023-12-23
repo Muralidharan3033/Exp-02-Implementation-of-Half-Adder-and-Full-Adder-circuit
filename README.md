@@ -36,19 +36,100 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+HALF ADDER
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/01287726-638b-4175-880f-910946fe5b2c)
+
+
+
+
+FULL ADDER
+
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/05808bc4-8b6c-4f6a-b5ef-bd23f044575d)
+
+
+
+
+
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:MURALIDHARAN M
+RegisterNumber:23012704
 */
 Logic symbol & Truthtable
+HALF ADDER
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/627be428-d984-4a16-866c-1af75811235d)
+
+
+
+
+FULL ADDER
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/e1a41bfd-e5cf-4486-9bd3-13507f9c3084)
+
+
+
+
+
+
 RTL realization
+Half Adder Circuit:
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/e697cc1c-752f-4f2f-9a76-7fc852bdd51f)
+
+
+
+
+Full Adder Circuit:
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/c94caef9-ef69-472d-aceb-a3c0bc9f07d6)
+
+
+
+
+
+
 
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
+Half Adder Diagram:
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/5f3c37ae-4ac6-4475-8073-c572e06a459c)
+
+
+
+
+Full Adder Diagram:
+
+
+
+
+![image](https://github.com/vasanthkumarch/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473403/78a6d3be-7b8a-48f9-a361-c93b1c35b6ee)
+
+
+
+
 
 
 ### TRUTH TABLE 
 
 ### Result:
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
